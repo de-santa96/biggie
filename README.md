@@ -6,5 +6,7 @@ A big integer class in cpp.
 * The class can be helpful in situations where the number to be stored exceeds the capacity of buit-in data types, like computing factorials.
 
 * The main function has example code illustrating the usage of biggie.
+<br/>
+<br/>
 
 *note: negative numbers are not supported as of yet.*
